@@ -8,6 +8,7 @@ This app has been made using:
 - Eslint
 - [Eslint Rules by W. Candillon](https://github.com/wcandillon/eslint-config-react-native-wcandillon)
 - Env variables
+- Auto to manage semver and auto publishing
 
 ## how to run
 navigate to the root folder of this project, checkout the correct branch, and:

@@ -31,7 +31,8 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\" --quiet"
+    "lint": "eslint \"src/**/*.{js,jsx,ts,tsx}\" --quiet",
+    "release": "auto shipit"
   },
   "version": "1.0.0",
   "name": "expo-template-with-react-query",
